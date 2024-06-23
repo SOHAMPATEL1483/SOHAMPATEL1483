@@ -20,7 +20,7 @@
 <a href="https://www.leetcode.com/sohampatel1483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohampatel1483" height="30" width="40" /></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,svelte,react,angular,webpack,nodejs,pnpm,prisma,docker,supabase,firebase,tailwind,postman,nextjs,html,git,python,django,c,cpp)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohampatel1483&show_icons=true&locale=en&layout=compact" alt="sohampatel1483" /></p>
 
