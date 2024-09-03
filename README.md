@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soham Patel</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohampatel1483&label=Profile%20views&color=0e75b6&style=flat" alt="sohampatel1483" /> </p>
-
-- 🔭 I’m currently working on [Reddit-clone](https://github.com/SOHAMPATEL1483/Reddit-clone)
-
-- 💬 Ask me about **Svelte,React,Prisma**
-
 - 📫 How to reach me **sohampatel1483@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZYq9yuZ-owN5MPGah6cGQgpwKsYEwhyp/view](https://drive.google.com/file/d/1ZYq9yuZ-owN5MPGah6cGQgpwKsYEwhyp/view)
