@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZYq9yuZ-owN5MPGah6cGQgpwKsYEwhyp/view](https://drive.google.com/file/d/1ZYq9yuZ-owN5MPGah6cGQgpwKsYEwhyp/view)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,js,ts,svelte,react,angular,webpack,nodejs,pnpm,prisma,docker,supabase,firebase,tailwind,postman,nextjs,html,git,python,django,c,cpp,java)
+![My Skills](https://skillicons.dev/icons?i=linux,js,ts,svelte,react,angular,webpack,nodejs,pnpm,prisma,docker,supabase,firebase,tailwind,postman,nextjs,html,git,python,django,c,cpp,java)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
